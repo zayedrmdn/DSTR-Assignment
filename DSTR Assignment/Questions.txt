@@ -1,0 +1,60 @@
+What is the average-case time complexity for searching an element in an unordered linked list? A.Constant B.Linear C.Quadratic D.Exponential,B,5
+Which data structure follows the FIFO (First-In-First-Out) principle? A.Stack B.Queue C.PriorityQueue D.LinkedList,B,5
+In a C++ array what is the time complexity for accessing an element by its index? A.Linear B.Constant C.Logarithmic D.Quadratic,B,5
+What is a key difference between a stack and a queue? A.Size B.Flexibility C.Order D.Speed,C,5
+Which C++ standard library class implements a dynamic array? A.Array B.List C.Vector D.Map,C,5
+What is the worst-case time complexity of inserting an element into a binary search tree (BST)? A.Logarithmic B.Constant C.Linear D.Quadratic,C,5
+What C++ STL container provides constant-time insertion and removal of elements at both ends but not in the middle? A.Vector B.Deque C.List D.Array,B,5
+Which traversal technique visits the root node first in a binary tree? A.Inorder B.Postorder C.Preorder D.Levelorder,C,5
+Which data structure provides constant-time lookup for keys? A.Vector B.Stack C.Queue D.Hashtable,D,5
+What is the main advantage of using a doubly linked list over a singly linked list? A.Memory B.Speed C.Bidirectional D.Flexibility,C,5
+Which container adapter in C++ STL implements a priority queue? A.Queue B.Stack C.PriorityQueue D.List,C,5
+Which data structure is best for implementing a LIFO stack? A.Queue B.PriorityQueue C.Stack D.LinkedList,C,5
+What is the name of the algorithm that organizes a heap? A.Sort B.Sift C.Heapify D.Balance,C,5
+In a graph data structure what is an "edge"? A.Node B.Connection C.Path D.Layer,B,5
+Which C++ STL container guarantees the order of elements based on their values? A.Vector B.List C.Map D.Set,D,5
+Which graph traversal algorithm uses a queue data structure? A.DFS B.Dijkstra C.BFS D.Prims,C,5
+Which function in C++ STL converts a vector into a heap? A.SortHeap B.MakeHeap C.BuildHeap D.NewHeap,B,5
+What is the difference between a max heap and a min heap? A.Size B.Complexity C.Priority D.Data type,C,5
+In which kind of binary tree are all levels fully filled except possibly the last which is filled from left to right? A.Complete B.Full C.Perfect D.Balanced,A,5
+Which C++ STL container is best suited for implementing a stack data structure? A.List B.Queue C.PriorityQueue D.Stack,D,5
+Which hash function can be used to distribute data in a hash table uniformly? A.Simple B.Complex C.Modular D.Advanced,C,5
+What is the primary difference between a map and an unordered map in C++? A.Flexibility B.Sorting C.Speed D.Size,B,5
+Which search algorithm is used in a balanced binary search tree like an AVL tree? A.Linear B.Hash C.Binary D.Depth,C,5
+What data structure would you use to implement an undo feature? A.Queue B.Stack C.Vector D.List,B,5
+What C++ STL container maintains unique elements in a sorted order? A.List B.Queue C.Vector D.Set,D,5
+What property makes AVL trees self-balancing? A.Weight B.Depth C.Balance D.Height,C,5
+Which traversal of a binary search tree results in sorted data? A.Preorder B.Postorder C.Inorder D.Levelorder,C,5
+What is the average-case time complexity for searching an element in a hash table with good hash distribution? A.Quadratic B.Logarithmic C.Linear D.Constant,D,5
+Which data structure can be represented by an adjacency list or adjacency matrix? A.Queue B.Stack C.Graph D.Tree,C,5
+What is a practical use case of a trie (prefix tree)? A.Sorting B.Searching C.Autocomplete D.Networking,C,5
+Which C++ STL container provides constant-time insertion and removal of elements only at one end? A.Queue B.Stack C.Vector D.List,B,5
+Which C++ STL container is implemented as a red-black tree? A.Set B.Multiset C.Map D.List,C,5
+Which balanced binary search tree ensures that the difference in heights between the left and right subtrees of any node does not exceed 1? A.Binary B.Red-Black C.AVL D.B-Tree,C,5
+What algorithm is commonly used to find the shortest path in an unweighted graph? A.DFS B.AStar C.BFS D.Bellman,C,5
+Which C++ data structure supports efficient insertion and search of key-value pairs while preserving insertion order? A.Map B.Set C.UnorderedMap D.Multimap,C,5
+What property distinguishes a B-tree from a binary search tree? A.Depth B.Balance C.Children D.Complexity,C,5
+Which search algorithm works only on sorted lists or arrays? A.Linear B.Binary C.Hash D.Breadth,B,5
+In a graph what is the term for a path that starts and ends at the same node without repeating any edge? A.Loop B.Circuit C.Path D.Cycle,B,5
+Which C++ STL container provides random access iterators and allows resizing? A.List B.Map C.Deque D.Vector,D,5
+Which sorting algorithm does std::sort use in C++ STL? A.MergeSort B.QuickSort C.IntroSort D.HeapSort,C,5
+What is the main advantage of using a linked list over an array for certain data structures? A.Speed B.Memory C.Flexibility D.Complexity,C,5
+What is the purpose of the reserve method in C++ std::vector? A.Clear B.Preallocate C.Resize D.Refresh,B,5
+Which tree data structure is optimized for storing hierarchical data? A.Binary B.B-Tree C.N-ary D.AVL,C,5
+Which C++ STL container supports efficient insertion and removal at both the front and back? A.Vector B.List C.Map D.Deque,D,5
+What is the primary difference between depth-first search (DFS) and breadth-first search (BFS)? A.Speed B.Complexity C.Strategy D.Depth,C,5
+Which sorting algorithm is best for almost-sorted data? A.QuickSort B.MergeSort C.IntroSort D.Insertion,D,5
+What is the main purpose of the std::set container in C++ STL? A.Ordering B.Flexibility C.Uniqueness D.Resizing,C,5
+Which C++ STL container has the largest memory overhead? A.Vector B.List C.Deque D.Map,D,5
+In a priority queue implemented as a heap what operation maintains the heap property? A.Sort B.Balance C.Adjust D.Heapify,D,5
+Which C++ STL container offers LIFO behavior while using a deque or list as the underlying container? A.Queue B.PriorityQueue C.Stack D.List,C,5
+Which data structure allows duplicate keys and maintains their order of insertion in C++ STL? A.Map B.Set C.Multiset D.UnorderedMap,C,5
+What data structure is useful for efficiently checking if an element has been seen before? A.Array B.Vector C.HashSet D.List,C,5
+Which sorting algorithm has a worst-case time complexity of O(n^2) but is generally efficient for small arrays? A.MergeSort B.HeapSort C.QuickSort D.IntroSort,C,5
+What is the primary difference between std::map and std::unordered_map in terms of implementation? A.Flexibility B.Speed C.Structure D.Memory,C,5
+What is the main characteristic of a "complete" graph? A.Size B.Flexibility C.Connectivity D.Complexity,C,5
+Which type of linked list includes a "tail" pointer to facilitate quick insertion at the end? A.Singly B.Circular C.Doubly D.Multilevel,C,5
+What is the time complexity of inserting an element in the middle of an array (without resizing)? A.Constant B.Logarithmic C.Linear D.Quadratic,C,5
+What C++ STL container maintains a sorted balanced tree structure with unique keys? A.Set B.List C.Vector D.Map,D,5
+Which data structure supports efficient range queries by dividing data into buckets? A.HashTable B.Tree C.SegmentTree D.LinkedList,C,5
+Which C++ STL container should you use when order does not matter but duplicate keys should be allowed? A.Set B.List C.Multiset D.Vector,C,5

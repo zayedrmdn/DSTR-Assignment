@@ -130,7 +130,9 @@
     <ClCompile Include="DSTR Assignment.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TriviaHeader.hpp" />
+    <ClInclude Include="TriviaPlayer.hpp" />
+    <ClInclude Include="TriviaQuestions.hpp" />
+    <ClInclude Include="TriviaMenu.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

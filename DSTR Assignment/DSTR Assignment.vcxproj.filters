@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Tawfik">
+      <UniqueIdentifier>{a5ef2fe7-4577-4c46-baa6-77ac1007c6c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Zayed">
+      <UniqueIdentifier>{bd0e6d5e-c3ab-498d-8046-359ecffe7c2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DSTR Assignment.cpp">
@@ -20,8 +26,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TriviaHeader.hpp">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="TriviaQuestions.hpp">
+      <Filter>Header Files\Tawfik</Filter>
+    </ClInclude>
+    <ClInclude Include="TriviaMenu.hpp">
+      <Filter>Header Files\Zayed</Filter>
+    </ClInclude>
+    <ClInclude Include="TriviaPlayer.hpp">
+      <Filter>Header Files\Zayed</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
